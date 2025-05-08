@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Label.txt", "Label.txt\Label.txt.csproj", "{5DC1E6F8-B852-475F-B0EC-D74E71E17601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Label.txt", "Label.txt\Label.txt.csproj", "{5DC1E6F8-B852-475F-B0EC-D74E71E17601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC1E6F8-B852-475F-B0EC-D74E71E17601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> 30b3c29f3429da3fe69825813647568c2ee0051b

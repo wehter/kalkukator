@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\bin\Debug\kaqlculator 2.exe.config
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\bin\Debug\kaqlculator 2.exe
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\bin\Debug\kaqlculator 2.pdb
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator_2.Form1.resources
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator_2.Properties.Resources.resources
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator 2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator 2.exe
+C:\Users\HP\Desktop\савок\kaqlculator 2\kaqlculator 2\obj\Debug\kaqlculator 2.pdb
